@@ -1,0 +1,5 @@
+{
+  "name": "Client-Side Video Compressor",
+  "description": "A secure, offline-capable video compressor running entirely in your browser using FFmpeg WASM. No file uploads to servers.",
+  "requestFramePermissions": []
+}
